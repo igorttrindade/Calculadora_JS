@@ -1,4 +1,5 @@
-##Calculadora desenvolvida atráves do site de cursos DIO!
+###Calculadora desenvolvida atráves do site de cursos DIO!
+<br>
 Desenvolvida totalmente em JavaScript
 developer by igorttrindade
 
